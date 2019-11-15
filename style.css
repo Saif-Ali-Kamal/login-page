@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(90, 147, 253);
+    color: white;
+    text-align: center;
+}
+
+
+.form{
+    height: 250px;
+	width: 500px;
+	background-color: white;
+	text-align: center;
+    padding: 20px;
+    border-radius: 4px;
+    margin: -190px auto;
+}
+
+
+input {
+    margin: 25px auto;
+	display: block;
+	width: 50%;
+	padding: 15px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+button{
+    width: 50%;
+    background-color: rgb(21, 102, 252);
+    color: white;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.welcome{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 200px auto;
+}
+
+.links{
+    height: 20px;
+	width: 500px;
+	padding: 20px;
+    border-radius: 4px;
+    margin: 175px auto;
+}
+
+.links-left{
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+}
+
+
+.links-right{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+}
